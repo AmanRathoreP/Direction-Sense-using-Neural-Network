@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/graphics/images/icons">
+        <file>resources/icons/back.svg</file>
+        <file>resources/icons/dot-stack.svg</file>
+        <file>resources/icons/menu.svg</file>
+        <file>resources/icons/reset.svg</file>
+        <file>resources/icons/settings.svg</file>
+        <file>resources/icons/about.svg</file>
+        <file>resources/icons/author.svg</file>
+        <file>resources/icons/help.svg</file>
+    </qresource>
+    <qresource prefix="/designs/tabs/controls">
+        <file>src/ui/others/home-tabs/Input.qml</file>
+        <file>src/ui/others/home-tabs/Output.qml</file>
+        <file>src/ui/others/home-tabs/Processing.qml</file>
+    </qresource>
+    <qresource prefix="/graphics/images/logos"/>
+    <qresource prefix="/graphics/images/for-app">
+        <file>resources/images/robot-ai.svg</file>
+    </qresource>
+</RCC>
